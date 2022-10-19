@@ -1,4 +1,4 @@
-# Sesiones de la asignatura Cloud Computing.
+# Sesiones de prácticas de la asignatura Cloud Computing.
 
 [Lee el fichero del repositorio completo](../README.md) por si
 necesitas ayuda. En este directorio estarán los ficheros de clase
