@@ -4,6 +4,9 @@
 necesitas ayuda. En este directorio estarán los ficheros de clase
 ordenados cronológicamente de forma inversa.
 
+* [Sesión 25 de enero 2023](2023_01_25.md).
+* [Sesión 18 de enero 2023](2023_01_18.md).
+* [Sesión 11 de enero 2023](2023_01_11.md).
 * [Sesión 21 de diciembre 2022](2022_12_21.md).
 * [Sesión 14 de diciembre 2022](2022_12_14.md).
 * [Sesión 7 de diciembre 2022](2022_12_07.md).
