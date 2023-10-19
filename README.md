@@ -18,13 +18,13 @@ Para cada uno de los hitos se entregará el código y la documentación describi
 
 Los hitos para la realización del proyecto son los siguientes:
 
-* [Hito 0: Descripción del problema a resolver usando correctamente git y GitHub]( http://jj.github.io/CC/documentos/proyecto/0.Repositorio). Fecha límite de entrega: 2 de noviembre de 2022.
-* [Hito 1: Concretando y planificando el proyecto](https://jj.github.io/CC/documentos/proyecto/1.Infraestructura). Fecha límite de entrega: 9 de noviembre de 2022.
-* [Hito 2: Tests](https://jj.github.io/CC/documentos/proyecto/2.Tests). Fecha límite de entrega: 23 de noviembre de 2022.
-* [Hito 3: Creación de un contenedor para pruebas](https://jj.github.io/CC/documentos/proyecto/3.Docker). Fecha límite de entrega: 7 de diciembre de 2022.
-* [Hito 4: Integración continua](https://jj.github.io/CC/documentos/proyecto/4.CI). Fecha límite de entrega: 21 de diciembre de 2022.
-* [Hito 5: Diseño y test de un microservicio](https://jj.github.io/CC/documentos/proyecto/5.Microservicio). Fecha límite de entrega: 18 de enero de 2023.
-* [Hito 6: Composición de servicios](https://jj.github.io/CC/documentos/proyecto/6.Compose). Fecha límite de entrega: 25 de enero de 2023.
+* [Hito 0: Descripción del problema a resolver usando correctamente git y GitHub](hitos/0.Repositorio.md). Fecha límite de entrega: 26 de octubre de 2022.
+* [Hito 1: Concretando y planificando el proyecto](hitos/1.Infraestructura.md). Fecha límite de entrega: 2 de noviembre de 2022.
+* [Hito 2: Tests](hitos/2.Tests.md). Fecha límite de entrega: 16 de noviembre de 2022.
+* [Hito 3: Creación de un contenedor para pruebas](hitos/3.Docker.md). Fecha límite de entrega: 30 de noviembre de 2022.
+* [Hito 4: Integración continua](hitos/4.CI.md). Fecha límite de entrega: 21 de diciembre de 2022.
+* [Hito 5: Diseño y test de un microservicio](hitos/5.Microservicio.md). Fecha límite de entrega: 18 de enero de 2023.
+* [Hito 6: Composición de servicios](hitos/6.Compose.md). Fecha límite de entrega: 26 de enero de 2023.
 
 Se entregan los [hitos del proyecto actualizando los ficheros de hitos y haciendo un pull request](proyectos/README.md)
 
